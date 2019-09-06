@@ -1,0 +1,5 @@
+D:\imdoo\pfa1\A1Q18\A1Q18\bin\Debug\A1Q18.exe
+D:\imdoo\pfa1\A1Q18\A1Q18\bin\Debug\A1Q18.pdb
+D:\imdoo\pfa1\A1Q18\A1Q18\obj\x86\Debug\A1Q18.exe
+D:\imdoo\pfa1\A1Q18\A1Q18\obj\x86\Debug\A1Q18.pdb
+D:\imdoo\pfa1\A1Q18\A1Q18\obj\x86\Debug\A1Q18.csprojResolveAssemblyReference.cache
