@@ -1,0 +1,4 @@
+D:\imdoo\pfa1\A1Q36\A1Q36\bin\Debug\A1Q36.exe
+D:\imdoo\pfa1\A1Q36\A1Q36\bin\Debug\A1Q36.pdb
+D:\imdoo\pfa1\A1Q36\A1Q36\obj\x86\Debug\A1Q36.exe
+D:\imdoo\pfa1\A1Q36\A1Q36\obj\x86\Debug\A1Q36.pdb
